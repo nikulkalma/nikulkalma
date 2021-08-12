@@ -1,0 +1,250 @@
+{
+  "45b4de491b3fe11235e558f7856fd05f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "df2ba6c267d70c73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628486442552,
+        "stop" : 1628486443874,
+        "duration" : 1322
+      }
+    } ]
+  },
+  "85af3a79f930d76c89cdc2250e0d6be7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7908c2589cf26fb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628244125347,
+        "stop" : 1628244127522,
+        "duration" : 2175
+      }
+    } ]
+  },
+  "d8963531e63a5f5049ffa6f00874470" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f027cea0873bd0e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628486443878,
+        "stop" : 1628486448065,
+        "duration" : 4187
+      }
+    } ]
+  },
+  "fac253989420e9df0f3b979df0cb60ef" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b1aad2f93e57ee5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628244133087,
+        "stop" : 1628244136281,
+        "duration" : 3194
+      }
+    } ]
+  },
+  "8bc4248329cd4ea6f08309ce54707e40" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d110bce04c92e83f",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @AfterSuite annotated allureEnvironmentWriter.\nFor more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1628249157267,
+        "stop" : 1628249157268,
+        "duration" : 1
+      }
+    } ]
+  },
+  "a14254d6d1c8a496e7b7f9357b45b31b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7e282112ad5ebd72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628244128013,
+        "stop" : 1628244128717,
+        "duration" : 704
+      }
+    } ]
+  },
+  "6071f57280c20f8bf6fec0c808aeb61f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5f07d4d8d07b03f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628486440737,
+        "stop" : 1628486442542,
+        "duration" : 1805
+      }
+    } ]
+  },
+  "c3f5e9db896b2170be7ff9cb69ce6a34" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1af9aee7bf4e6aae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628244128721,
+        "stop" : 1628244133082,
+        "duration" : 4361
+      }
+    } ]
+  },
+  "8f3b5ba23edee5d1c27f6c5821375fc9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2f8d2bcc8db4db4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628244127667,
+        "stop" : 1628244127995,
+        "duration" : 328
+      }
+    } ]
+  },
+  "55b048115b008a50548cb0c47f4e7a13" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "da48089e8ebf9000",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628486440220,
+        "stop" : 1628486440719,
+        "duration" : 499
+      }
+    } ]
+  },
+  "37e12fd0facf058be92149e9bb1d3b15" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7e16ff6a816293f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628486437882,
+        "stop" : 1628486440076,
+        "duration" : 2194
+      }
+    } ]
+  },
+  "1d89ab414d39e20b29a9edc3e8493a90" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1c90ee702d2e25ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628246708904,
+        "stop" : 1628246709114,
+        "duration" : 210
+      }
+    } ]
+  },
+  "1468b830b7187521f6fb4a14aeeef42" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bfd4ab617924b3cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628253164154,
+        "stop" : 1628253164335,
+        "duration" : 181
+      }
+    } ]
+  }
+}

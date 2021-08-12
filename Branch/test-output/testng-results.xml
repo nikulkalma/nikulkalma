@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-12T17:48:54 IST" name="Suite" finished-at="2021-08-12T17:49:00 IST" duration-ms="6008">
+    <groups>
+    </groups>
+    <test started-at="2021-08-12T17:48:54 IST" name="Test" finished-at="2021-08-12T17:49:00 IST" duration-ms="6008">
+      <class name="branchTestNG.TestNGBranch">
+        <test-method signature="openBrowser()[pri:1, instance:branchTestNG.TestNGBranch@546621c4]" started-at="2021-08-12T17:48:54 IST" name="openBrowser" finished-at="2021-08-12T17:48:56 IST" duration-ms="1800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="launchZipErp()[pri:2, instance:branchTestNG.TestNGBranch@546621c4]" started-at="2021-08-12T17:48:56 IST" name="launchZipErp" finished-at="2021-08-12T17:48:56 IST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchZipErp -->
+        <test-method signature="performLoginAndClick()[pri:3, instance:branchTestNG.TestNGBranch@546621c4]" started-at="2021-08-12T17:48:56 IST" name="performLoginAndClick" finished-at="2021-08-12T17:48:57 IST" duration-ms="486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performLoginAndClick -->
+        <test-method signature="moveToSetting()[pri:4, instance:branchTestNG.TestNGBranch@546621c4]" started-at="2021-08-12T17:48:57 IST" name="moveToSetting" finished-at="2021-08-12T17:48:58 IST" duration-ms="1743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moveToSetting -->
+        <test-method signature="moveToBranchDetails()[pri:5, instance:branchTestNG.TestNGBranch@546621c4]" started-at="2021-08-12T17:48:58 IST" name="moveToBranchDetails" finished-at="2021-08-12T17:49:00 IST" duration-ms="1522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moveToBranchDetails -->
+      </class> <!-- branchTestNG.TestNGBranch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
